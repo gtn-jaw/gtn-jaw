@@ -1,4 +1,12 @@
-## Hi there 👋
+## Morning
+- I am into 🍪 geme dev
+- I am currently working in ✨ GTN ✨
+- I am making 🎮 Game
+- You can reach me: gtn.jaw.company@gmail.com
+- Fun fact:
+  ❤️
+  
+  Did you know that in ancient Greece, people believed that the brain wasn’t where thought happened? Instead, they thought it was the heart! The brain was seen more as a cooling mechanism for the blood, while all intelligence and emotion were believed to be in the heart.
 
 <!--
 **gtn-jaw/gtn-jaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
