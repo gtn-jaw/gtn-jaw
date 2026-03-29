@@ -1,5 +1,5 @@
 ## Morning
-- I am into 🍪 geme dev
+- I am into 🍪 game dev
 - I am currently working in ✨ GTN ✨
 - I am making 🎮 Game
 - You can reach me: gtn.jaw.company@gmail.com
